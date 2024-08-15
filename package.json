@@ -1,0 +1,11 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon --env-file=.env index.js"
+  },
+  "author": "gabiinreal",
+  "license": "ISC",
+  "description": ""
+}
