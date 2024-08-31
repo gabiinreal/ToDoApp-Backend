@@ -7,5 +7,8 @@
   },
   "author": "gabiinreal",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.11.0"
+  }
 }

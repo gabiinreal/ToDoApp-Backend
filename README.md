@@ -23,6 +23,8 @@ This is the backend part of a fullstack to-do application, built in native NodeJ
 
 - The list of files that use the .env file:
     - /index.js
+    - /db/connect.js
 
 ## What i used
-- Nodemon (1.0.0): [Documentation](https://nodemon.io/) 
+- Nodemon (1.0.0): [Documentation](https://nodemon.io/)
+- MySql2 (3.11.0) [Documentation](https://sidorares.github.io/node-mysql2/docs/documentation)
